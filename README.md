@@ -2,8 +2,13 @@
 
 **Researcher @ INESC TEC | PhD Student @ UTAD**
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pascd&show_icons=true&theme=radical&count_private=true&v=1)](https://github.com/pascd)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pascd&layout=compact&theme=radical&v=1)](https://github.com/pascd)
+&nbsp;
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=pascd&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="170" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=pascd&layout=compact&theme=radical&langs_count=10" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pascd&theme=radical" height="170" />
+</p>
 
 ---
 
