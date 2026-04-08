@@ -2,8 +2,8 @@
 
 **Research Assistant @ INESC TEC | PhD Student @ UTAD**
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pascd&show_icons=true&theme=radium)](https://github.com/pascd)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pascd&layout=compact&theme=radium)](https://github.com/pascd)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pascd&show_icons=true&theme=radical&count_private=true&v=1)](https://github.com/pascd)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pascd&layout=compact&theme=radical&v=1)](https://github.com/pascd)
 
 ---
 
